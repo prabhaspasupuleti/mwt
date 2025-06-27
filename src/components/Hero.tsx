@@ -103,7 +103,7 @@ const Hero = () => {
         {/* Call-to-Action Buttons - centered with `justify-center` */}
         <div className="flex flex-col sm:flex-row gap-4 justify-center">
           <a
-            href="products"
+            href="/products"
             className="inline-flex items-center bg-indigo-600 text-white px-8 py-4 rounded-lg hover:bg-indigo-700 font-semibold transition-all duration-200 transform hover:scale-105 shadow-lg"
           >
             Explore Solutions
